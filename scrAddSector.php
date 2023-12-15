@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>PHP Design</title>
+    <title>Office Control System</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
     <div class="container">
-        <h2>PHP Design</h2>
+        <h2>Office Control System</h2>
 
         <!-- Labels and Text Fields -->
         <label class="label" for="txtBukaCode">Buka Code:</label>
